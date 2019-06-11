@@ -1,15 +1,16 @@
 # rabbitmq-hello-world
 
+* [Setup RabbitMQ](https://www.rabbitmq.com/download.html)
 
-Setup RabbitMQ by following 
+### Start RabbitMQ
 
-`https://www.rabbitmq.com/download.html`
+```rabbitmq-server```
 
-Install Dependency
-`npm install`
+### Install Dependency
+
+```npm install```
 
 
-Run Application
+### Run Application
 
-`node server.js`
-
+```node server.js```
